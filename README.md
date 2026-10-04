@@ -56,7 +56,7 @@ The long-term goal is to create a research platform where a user can enter a com
 
 ## 🏗️ Target Architecture
 
-```text
+
                     USER
                       │
                       ▼
